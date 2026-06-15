@@ -7,3 +7,4 @@ The course in the earlier lectures covers major ai risks and explains ai capabil
 The course shows a major drawback of not updated data provided by LLMs. But 2026 models can search/visit the websites in real time.
 This can drastically improve ai re-training costs but also introduce many risks.
 
+This repo can be used to visit and read my understandings and relevations of few latest papers on the topic of ai risks.
